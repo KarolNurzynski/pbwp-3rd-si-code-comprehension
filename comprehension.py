@@ -1,3 +1,5 @@
+# The program asks the user to guess a number between 1 and 20 in not more than 6 tries
+
 import random #importing random library
 
 guesses_taken = 0 #new variable created with 0 value assigned
